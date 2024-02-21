@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhmZ2FuY2xkOG9jcW5iaTd5OGl2dG5keGZ2YzJ0aWh3dTZqMG45NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQ2DpRVnfldlRnJs4y/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhmZ2FuY2xkOG9jcW5iaTd5OGl2dG5keGZ2YzJ0aWh3dTZqMG45NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQ2DpRVnfldlRnJs4y/giphy.gif" width="600" height="300"/>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/samgleb4i?theme=light&font=Roboto)
