@@ -4,4 +4,11 @@
 
 
 
-
+<details>
+<summary>leetcode</summary>
+ 
+[![leetcode][1]][1]
+ 
+[1]:![LeetCode Stats](https://leetcode.card.workers.dev/samgleb4i?theme=default&font=baloo&extension=null)
+ 
+</details>
