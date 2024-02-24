@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=F-1X&color=green)
 
 <details>
-<summary>leetcode</summary>
+<summary align="right">leetcode</summary>
  
 ![LeetCode Stats](https://leetcode.card.workers.dev/samgleb4i?theme=default&font=baloo&extension=null)
  
