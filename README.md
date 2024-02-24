@@ -5,8 +5,9 @@
 
 
 <div align="right">
+![](https://komarev.com/ghpvc/?username=F-1X&color=green)
 <details >
-  ![](https://komarev.com/ghpvc/?username=F-1X&color=green)
+
 <summary>leetcode</summary>
  
 ![LeetCode Stats](https://leetcode.card.workers.dev/samgleb4i?theme=default&font=baloo&extension=null)
